@@ -13,7 +13,7 @@ if
 //default sum 0 (empty)
 let sum = 0;
 //creates loop variable i for min, if i <= max loop continues until less than or equal to, if i exceeds loop stops
-//sum += adds current value of i to sum 
+//sum += adds current value of i to sum git 
 for (let i = min; i <= max; i++) {
     sum += i;
 }
